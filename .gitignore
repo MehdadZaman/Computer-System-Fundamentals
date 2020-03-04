@@ -4,6 +4,5 @@ proj2/bifid_decrypt_main.asm
 proj2/bifid_encrypt_main.asm
 proj2/bytecopy_main.asm
 proj2/index_of_main.asm
-proj2/scramble_decrypt_main.asm
 proj3/*
 proj4/*
