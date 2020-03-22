@@ -4,4 +4,3 @@ proj4/clear_queue_main.asm
 proj4/compare_to_main.asm
 proj4/compute_checksum_main.asm
 proj4/dequeue_main.asm
-proj4/enqueue_main.asm
