@@ -1,1 +1,11 @@
-proj3/*
+proj3/check_row_clear_main.asm
+proj3/count_overlaps.asm
+proj3/drop_piece_main.asm
+proj3/get_slot_main.asm
+proj3/initialize_main.asm
+proj3/load_game_main.asm
+proj3/place_piece_main.asm
+proj3/proj3.asm
+proj3/rotate_main.asm
+proj3/set_slot_main.asm
+proj3/simulate_game_main.asm
